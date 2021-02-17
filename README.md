@@ -1,2 +1,3 @@
 # 340_API_Application
 Homework 2
+2/16/2021 This is incredibly incomplete and I am still working to figure out what I have done, and how to fix it with the least about of trauma to this entire assignent. I have no idea if I will save my score for this assignment. I loaded it up on here in hopes of at least a score of 1 and not a zero. For what it is worth, I fully plan on having a completed/compliling/ doing exactly what I want it to do program.  I shouid also note that I take (Prescribed) Ambien nightly and that any coding done after 10pm is either full of genius or full of fail, like tonight. I code while I'm on my way to la-la land untul I cannot fight passes the pull and must sleet. 1:48 was that point last night. HLH
